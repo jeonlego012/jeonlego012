@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Lego👾
+👩🏻‍💻 Flutter Developer
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyo9873@gmail.com)](mailto:jyo9873@gmail.com)
+
 
 <!--
 **jeonlego012/jeonlego012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
